@@ -67,18 +67,6 @@
               "midday": "Life is what happens to you while you're busy making other plans. — John Lennon",
               "evening": "The only impossible journey is the one you never begin. — Tony Robbins",
               "tags": ["action", "life", "journey", "famous"]
-            },
-            {
-              "morning": "Your time is limited, don't waste it living someone else's life. — Steve Jobs",
-              "midday": "It is during our darkest moments that we must focus to see the light. — Aristotle",
-              "evening": "Believe you can and you're halfway there. — Theodore Roosevelt",
-              "tags": ["time", "focus", "belief", "famous"]
-            },
-            {
-              "morning": "The only person you are destined to become is the person you decide to be. — Ralph Waldo Emerson",
-              "midday": "Don't watch the clock; do what it does. Keep going. — Sam Levenson",
-              "evening": "Success is not how high you have climbed, but how you make a positive difference to the world. — Roy T. Bennett",
-              "tags": ["destiny", "persistence", "impact", "famous"]
             }
           ]
         },
@@ -104,236 +92,672 @@
               "midday": "I am confident in my abilities and talents.",
               "evening": "I choose to see setbacks as setups for comebacks.",
               "tags": ["respect", "confidence", "resilience"]
-            },
-            {
-              "morning": "I radiate positive energy and attract positive people.",
-              "midday": "I am brave enough to be vulnerable and authentic.",
-              "evening": "I celebrate my progress, no matter how small.",
-              "tags": ["energy", "bravery", "progress"]
-            },
-            {
-              "morning": "I am the author of my own story and I choose hope.",
-              "midday": "I have overcome challenges before and I can do it again.",
-              "evening": "I am grateful for my strength and resilience.",
-              "tags": ["authorship", "overcome", "gratitude"]
             }
           ]
         },
         {
           "id": "success-mindset",
-          "name": "Success & Achievement",
+          "name": "Success Mindset",
           "isPremium": false,
           "days": [
             {
-              "morning": "I am focused on my goals and take action towards them daily.",
-              "midday": "Every challenge is an opportunity for me to grow stronger.",
-              "evening": "I celebrate the progress I made toward my dreams today.",
-              "tags": ["focus", "goals", "challenge", "progress"]
+              "morning": "I am building an empire of success, one day at a time.",
+              "midday": "Every challenge is a stepping stone to my next victory.",
+              "evening": "I am unstoppable in pursuit of my dreams.",
+              "tags": ["success", "challenges", "dreams"]
             },
             {
-              "morning": "I have the discipline to do what needs to be done.",
-              "midday": "I learn from every experience and use it to improve.",
-              "evening": "I am building the life I truly want, one day at a time.",
-              "tags": ["discipline", "learning", "building"]
+              "morning": "I attract wealth and abundance into my life.",
+              "midday": "My work ethic is my competitive advantage.",
+              "evening": "I am a magnet for opportunities and success.",
+              "tags": ["abundance", "work-ethic", "opportunities"]
             },
             {
-              "morning": "I attract abundance and prosperity into my life.",
-              "midday": "I am committed to excellence in everything I do.",
-              "evening": "I am grateful for the opportunities that came my way today.",
-              "tags": ["abundance", "excellence", "opportunities"]
+              "morning": "I am the CEO of my own life and destiny.",
+              "midday": "I turn obstacles into opportunities for growth.",
+              "evening": "My success is inevitable because I never give up.",
+              "tags": ["leadership", "growth", "persistence"]
             },
             {
-              "morning": "I turn obstacles into stepping stones to success.",
-              "midday": "I am persistent and never give up on my dreams.",
-              "evening": "I acknowledge how much I've accomplished today.",
-              "tags": ["obstacles", "persistence", "accomplishment"]
+              "morning": "I am surrounded by people who support my success.",
+              "midday": "I am constantly improving and evolving.",
+              "evening": "I celebrate every step forward, no matter how small.",
+              "tags": ["support", "improvement", "celebration"]
             },
             {
-              "morning": "I am worthy of achieving all my goals and dreams.",
-              "midday": "I make decisions that align with my highest good.",
-              "evening": "I trust the process and timing of my life.",
-              "tags": ["worthiness", "alignment", "trust"]
+              "morning": "I am worthy of financial freedom and abundance.",
+              "midday": "I am building multiple streams of income.",
+              "evening": "I am grateful for my growing wealth and success.",
+              "tags": ["financial-freedom", "income", "gratitude"]
             }
           ]
         },
         {
-          "id": "mindfulness-peace",
-          "name": "Mindfulness & Inner Peace",
+          "id": "health-wellness",
+          "name": "Health & Wellness",
           "isPremium": false,
           "days": [
             {
-              "morning": "I start this day with a calm and peaceful mind.",
-              "midday": "I breathe deeply and find peace in this moment.",
-              "evening": "I release all tension and embrace tranquility.",
-              "tags": ["calm", "breath", "peace", "release"]
+              "morning": "I am committed to my health and well-being.",
+              "midday": "Every healthy choice I make strengthens my body and mind.",
+              "evening": "I am grateful for my body's ability to heal and grow.",
+              "tags": ["health", "choices", "gratitude"]
             },
             {
-              "morning": "I am present and fully engaged with life.",
-              "midday": "I choose thoughts that bring me joy and peace.",
-              "evening": "I am grateful for the quiet moments of today.",
-              "tags": ["presence", "thoughts", "gratitude"]
+              "morning": "I nourish my body with love and healthy choices.",
+              "midday": "Movement is my medicine and strength my foundation.",
+              "evening": "I rest deeply and wake up refreshed and energized.",
+              "tags": ["nourishment", "movement", "rest"]
             },
             {
-              "morning": "I trust the natural flow of life and my place in it.",
-              "midday": "I find beauty and wonder in ordinary moments.",
-              "evening": "I let go of what I cannot control and focus on what I can.",
-              "tags": ["flow", "beauty", "control"]
+              "morning": "I am becoming stronger and healthier every day.",
+              "midday": "My body is a temple and I treat it with respect.",
+              "evening": "I am in perfect health and overflowing with energy.",
+              "tags": ["strength", "respect", "energy"]
             },
             {
-              "morning": "I am centered, balanced, and at peace with myself.",
-              "midday": "I respond to life with patience and understanding.",
-              "evening": "I end this day with a heart full of contentment.",
-              "tags": ["balance", "patience", "contentment"]
+              "morning": "I choose foods that fuel my body and mind.",
+              "midday": "Exercise is my daily celebration of what my body can do.",
+              "evening": "I am grateful for my body's wisdom and resilience.",
+              "tags": ["nutrition", "exercise", "wisdom"]
             },
             {
-              "morning": "I create space for stillness and reflection in my day.",
-              "midday": "I am kind to myself and practice self-compassion.",
-              "evening": "I sleep peacefully knowing I am exactly where I need to be.",
-              "tags": ["stillness", "kindness", "sleep"]
+              "morning": "I am creating a life of vitality and wellness.",
+              "midday": "My mental health is just as important as my physical health.",
+              "evening": "I am balanced in mind, body, and spirit.",
+              "tags": ["vitality", "mental-health", "balance"]
             }
           ]
         },
         {
-          "id": "motivation-energy",
-          "name": "Motivation & Energy",
+          "id": "relationships",
+          "name": "Relationships & Connection",
           "isPremium": false,
           "days": [
             {
-              "morning": "I wake up energized and ready to tackle the day.",
-              "midday": "I have unlimited energy to pursue my passions.",
-              "evening": "I used my energy wisely and feel accomplished.",
-              "tags": ["energy", "passion", "accomplishment"]
+              "morning": "I attract loving and supportive relationships.",
+              "midday": "I communicate with kindness and clarity.",
+              "evening": "I am surrounded by people who uplift and inspire me.",
+              "tags": ["attraction", "communication", "support"]
             },
             {
-              "morning": "I am motivated by my vision of the future.",
-              "midday": "I push through resistance and keep moving forward.",
-              "evening": "I am proud of my determination and effort today.",
-              "tags": ["vision", "resistance", "determination"]
+              "morning": "I am worthy of deep, meaningful connections.",
+              "midday": "I set healthy boundaries and respect others' boundaries.",
+              "evening": "I am a good friend and partner to those I love.",
+              "tags": ["connections", "boundaries", "friendship"]
             },
             {
-              "morning": "I choose to be enthusiastic about life and its possibilities.",
-              "midday": "I find inspiration in everything around me.",
-              "evening": "I recharge my spirit for tomorrow's adventures.",
-              "tags": ["enthusiasm", "inspiration", "recharge"]
-            },
-            {
-              "morning": "I am unstoppable when I put my mind to something.",
-              "midday": "I maintain my momentum even when things get tough.",
-              "evening": "I celebrate the energy and passion I brought to today.",
-              "tags": ["unstoppable", "momentum", "celebration"]
-            },
-            {
-              "morning": "I am driven by purpose and fueled by passion.",
-              "midday": "I take action even when I don't feel like it.",
-              "evening": "I honor my commitment to myself and my goals.",
-              "tags": ["purpose", "action", "commitment"]
-            }
-          ]
-        },
-        {
-          "id": "love-relationships",
-          "name": "Love & Relationships",
-          "isPremium": false,
-          "days": [
-            {
-              "morning": "I am worthy of love and I give love freely.",
-              "midday": "I attract healthy and supportive relationships.",
+              "morning": "I am open to giving and receiving love freely.",
+              "midday": "I resolve conflicts with compassion and understanding.",
               "evening": "I am grateful for the love in my life.",
-              "tags": ["love", "relationships", "gratitude"]
+              "tags": ["love", "conflict-resolution", "gratitude"]
             },
             {
-              "morning": "I communicate with kindness and understanding.",
-              "midday": "I set healthy boundaries that honor my well-being.",
-              "evening": "I appreciate the connections I made today.",
-              "tags": ["communication", "boundaries", "connections"]
+              "morning": "I am building a network of positive relationships.",
+              "midday": "I am a good listener and supportive friend.",
+              "evening": "I attract people who share my values and vision.",
+              "tags": ["networking", "listening", "values"]
             },
             {
-              "morning": "I choose to see the good in others and myself.",
-              "midday": "I forgive easily and release grudges that hold me back.",
-              "evening": "I send love and gratitude to those who matter to me.",
-              "tags": ["goodness", "forgiveness", "gratitude"]
-            },
-            {
-              "morning": "I am a magnet for positive and loving relationships.",
-              "midday": "I listen with my heart and speak with compassion.",
-              "evening": "I am surrounded by people who support my growth.",
-              "tags": ["magnet", "compassion", "support"]
-            },
-            {
-              "morning": "I love and accept myself unconditionally.",
-              "midday": "I treat others the way I want to be treated.",
-              "evening": "I am grateful for the love I shared and received today.",
-              "tags": ["self-love", "treatment", "sharing"]
+              "morning": "I am creating a loving and supportive family.",
+              "midday": "I am patient and understanding with others.",
+              "evening": "I am surrounded by unconditional love and acceptance.",
+              "tags": ["family", "patience", "acceptance"]
             }
           ]
         },
         {
-          "id": "wisdom-quotes",
-          "name": "Ancient Wisdom & Philosophy",
+          "id": "creativity",
+          "name": "Creativity & Innovation",
           "isPremium": false,
           "days": [
             {
-              "morning": "The journey of a thousand miles begins with one step. — Lao Tzu",
-              "midday": "We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle",
-              "evening": "The unexamined life is not worth living. — Socrates",
-              "tags": ["journey", "excellence", "examination", "philosophy"]
+              "morning": "I am a creative genius with unlimited ideas.",
+              "midday": "My imagination knows no bounds or limitations.",
+              "evening": "I am constantly inspired and inspiring others.",
+              "tags": ["creativity", "imagination", "inspiration"]
             },
             {
-              "morning": "Yesterday is history, tomorrow is a mystery, today is a gift. — Eleanor Roosevelt",
-              "midday": "The best time to plant a tree was 20 years ago. The second best time is now. — Chinese Proverb",
-              "evening": "Be kind, for everyone you meet is fighting a hard battle. — Plato",
-              "tags": ["time", "action", "kindness", "wisdom"]
+              "morning": "I trust my creative instincts and intuition.",
+              "midday": "I am open to new perspectives and possibilities.",
+              "evening": "I am creating something beautiful and meaningful.",
+              "tags": ["instincts", "perspectives", "creation"]
             },
             {
-              "morning": "A wise man learns more from his enemies than a fool from his friends. — Baltasar Gracián",
-              "midday": "The only true wisdom is in knowing you know nothing. — Socrates",
-              "evening": "Peace cannot be kept by force; it can only be achieved by understanding. — Albert Einstein",
-              "tags": ["learning", "wisdom", "peace", "understanding"]
+              "morning": "I am a problem solver and innovative thinker.",
+              "midday": "I embrace challenges as opportunities to create.",
+              "evening": "I am leaving my creative mark on the world.",
+              "tags": ["problem-solving", "innovation", "legacy"]
             },
             {
-              "morning": "The cave you fear to enter holds the treasure you seek. — Joseph Campbell",
-              "midday": "What we think, we become. — Buddha",
-              "evening": "The wound is the place where the Light enters you. — Rumi",
-              "tags": ["fear", "thoughts", "healing", "light"]
+              "morning": "I am constantly learning and growing creatively.",
+              "midday": "I am not afraid to think outside the box.",
+              "evening": "I am a source of creative inspiration for others.",
+              "tags": ["learning", "innovation", "inspiration"]
             },
             {
-              "morning": "Do not go where the path may lead, go instead where there is no path and leave a trail. — Ralph Waldo Emerson",
-              "midday": "The master has failed more times than the beginner has even tried. — Stephen McCranie",
-              "evening": "We cannot solve our problems with the same thinking we used when we created them. — Albert Einstein",
-              "tags": ["path", "mastery", "problems", "thinking"]
+              "morning": "I am creating a life that is a work of art.",
+              "midday": "My creativity flows freely and abundantly.",
+              "evening": "I am grateful for my unique creative gifts.",
+              "tags": ["art", "flow", "gifts"]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "seasonal-spring-2025",
-      "name": "Spring Renewal 2025",
-      "start": "2025-03-20",
-      "end": "2025-06-21",
-      "packs": [
+        },
         {
-          "id": "spring-growth",
-          "name": "Spring Growth & Renewal",
+          "id": "mindfulness",
+          "name": "Mindfulness & Presence",
           "isPremium": false,
           "days": [
             {
-              "morning": "Like nature, I am blooming and growing every day.",
-              "midday": "I embrace change as a natural part of life's cycle.",
-              "evening": "I plant seeds of intention that will flourish in time.",
-              "tags": ["growth", "change", "intention", "spring"]
+              "morning": "I am present in this moment and grateful for it.",
+              "midday": "I breathe deeply and find peace in the now.",
+              "evening": "I am centered and grounded in my being.",
+              "tags": ["presence", "breathing", "centered"]
             },
             {
-              "morning": "I am renewed and refreshed like the spring air.",
-              "midday": "I let go of winter's heaviness and embrace lightness.",
-              "evening": "I celebrate the new life emerging within and around me.",
-              "tags": ["renewal", "lightness", "emergence", "spring"]
+              "morning": "I am mindful of my thoughts and choose positive ones.",
+              "midday": "I am aware of my surroundings and grateful for them.",
+              "evening": "I am at peace with what is and what will be.",
+              "tags": ["mindfulness", "awareness", "peace"]
             },
             {
-              "morning": "Fresh possibilities bloom before me today.",
-              "midday": "I nurture my dreams with patience and care.",
-              "evening": "I am grateful for this season of growth and renewal.",
-              "tags": ["possibilities", "nurture", "gratitude", "spring"]
+              "morning": "I am connected to the present moment and all its beauty.",
+              "midday": "I am grateful for the simple pleasures of life.",
+              "evening": "I am letting go of what I cannot control.",
+              "tags": ["connection", "pleasures", "letting-go"]
+            },
+            {
+              "morning": "I am finding joy in the ordinary moments of life.",
+              "midday": "I am patient and present with whatever arises.",
+              "evening": "I am grateful for this day and all it brought.",
+              "tags": ["joy", "patience", "gratitude"]
+            },
+            {
+              "morning": "I am living in the present, not the past or future.",
+              "midday": "I am mindful of my breath and my body.",
+              "evening": "I am at peace with myself and the world.",
+              "tags": ["present", "breath", "peace"]
+            }
+          ]
+        },
+        {
+          "id": "gratitude",
+          "name": "Gratitude & Appreciation",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am grateful for this new day and all its possibilities.",
+              "midday": "I appreciate the beauty and wonder around me.",
+              "evening": "I am thankful for the lessons learned today.",
+              "tags": ["gratitude", "beauty", "lessons"]
+            },
+            {
+              "morning": "I am blessed with abundance in every area of my life.",
+              "midday": "I am grateful for my health, family, and friends.",
+              "evening": "I am thankful for the roof over my head and food on my table.",
+              "tags": ["blessings", "health", "basics"]
+            },
+            {
+              "morning": "I am grateful for the challenges that make me stronger.",
+              "midday": "I appreciate the people who support and love me.",
+              "evening": "I am thankful for my unique gifts and talents.",
+              "tags": ["challenges", "support", "gifts"]
+            },
+            {
+              "morning": "I am grateful for the opportunities that come my way.",
+              "midday": "I appreciate the beauty of nature and the world around me.",
+              "evening": "I am thankful for the love and joy in my life.",
+              "tags": ["opportunities", "nature", "love"]
+            },
+            {
+              "morning": "I am grateful for my journey and all its ups and downs.",
+              "midday": "I appreciate the present moment and all it contains.",
+              "evening": "I am thankful for another day of life and growth.",
+              "tags": ["journey", "present", "growth"]
+            }
+          ]
+        },
+        {
+          "id": "resilience",
+          "name": "Resilience & Strength",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am stronger than any obstacle in my path.",
+              "midday": "I bounce back from setbacks with renewed determination.",
+              "evening": "I am resilient and unbreakable in spirit.",
+              "tags": ["strength", "bounce-back", "resilience"]
+            },
+            {
+              "morning": "I am built to handle whatever life throws at me.",
+              "midday": "I am growing stronger through every challenge.",
+              "evening": "I am a warrior who never gives up.",
+              "tags": ["built-tough", "growth", "warrior"]
+            },
+            {
+              "morning": "I am capable of overcoming any adversity.",
+              "midday": "I am learning and growing from every difficulty.",
+              "evening": "I am proud of my resilience and strength.",
+              "tags": ["capability", "learning", "pride"]
+            },
+            {
+              "morning": "I am unshakeable in my determination to succeed.",
+              "midday": "I am finding strength I never knew I had.",
+              "evening": "I am becoming more resilient with every challenge.",
+              "tags": ["determination", "strength", "growth"]
+            },
+            {
+              "morning": "I am a survivor and a thriver in all circumstances.",
+              "midday": "I am turning my struggles into my strengths.",
+              "evening": "I am grateful for my ability to persevere.",
+              "tags": ["survivor", "transformation", "perseverance"]
+            }
+          ]
+        },
+        {
+          "id": "purpose",
+          "name": "Purpose & Meaning",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am living my life with purpose and intention.",
+              "midday": "I am making a positive difference in the world.",
+              "evening": "I am aligned with my highest calling and purpose.",
+              "tags": ["purpose", "difference", "calling"]
+            },
+            {
+              "morning": "I am following my heart and living authentically.",
+              "midday": "I am contributing to something bigger than myself.",
+              "evening": "I am grateful for the meaning and purpose in my life.",
+              "tags": ["authenticity", "contribution", "meaning"]
+            },
+            {
+              "morning": "I am on a mission to fulfill my life's purpose.",
+              "midday": "I am inspiring others through my actions and words.",
+              "evening": "I am living a life that matters and makes a difference.",
+              "tags": ["mission", "inspiration", "impact"]
+            },
+            {
+              "morning": "I am connected to my soul's purpose and mission.",
+              "midday": "I am using my gifts to serve others and the world.",
+              "evening": "I am grateful for the clarity of my purpose.",
+              "tags": ["soul", "service", "clarity"]
+            },
+            {
+              "morning": "I am creating a legacy that will outlive me.",
+              "midday": "I am living each day with meaning and intention.",
+              "evening": "I am proud of the purpose-driven life I'm building.",
+              "tags": ["legacy", "intention", "pride"]
+            }
+          ]
+        },
+        {
+          "id": "abundance",
+          "name": "Abundance & Prosperity",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am a magnet for abundance and prosperity.",
+              "midday": "I am open to receiving all the good things life offers.",
+              "evening": "I am grateful for the abundance that flows to me.",
+              "tags": ["abundance", "receiving", "flow"]
+            },
+            {
+              "morning": "I am worthy of financial freedom and wealth.",
+              "midday": "I am creating multiple streams of income and opportunity.",
+              "evening": "I am surrounded by abundance in all areas of my life.",
+              "tags": ["financial-freedom", "income", "surrounded"]
+            },
+            {
+              "morning": "I am attracting money and opportunities effortlessly.",
+              "midday": "I am a good steward of my resources and wealth.",
+              "evening": "I am grateful for my growing prosperity and success.",
+              "tags": ["attraction", "stewardship", "prosperity"]
+            },
+            {
+              "morning": "I am living in abundance and helping others do the same.",
+              "midday": "I am grateful for the wealth and resources I have.",
+              "evening": "I am creating a life of abundance and fulfillment.",
+              "tags": ["helping-others", "gratitude", "fulfillment"]
+            },
+            {
+              "morning": "I am worthy of all the abundance the universe has to offer.",
+              "midday": "I am open to unexpected blessings and opportunities.",
+              "evening": "I am grateful for the abundance that surrounds me.",
+              "tags": ["worthiness", "blessings", "surrounded"]
+            }
+          ]
+        },
+        {
+          "id": "wisdom",
+          "name": "Wisdom & Learning",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am constantly learning and growing wiser.",
+              "midday": "I am open to new ideas and perspectives.",
+              "evening": "I am grateful for the wisdom I gain each day.",
+              "tags": ["learning", "openness", "wisdom"]
+            },
+            {
+              "morning": "I am a student of life and a seeker of knowledge.",
+              "midday": "I am learning from every experience and interaction.",
+              "evening": "I am becoming wiser and more understanding.",
+              "tags": ["student", "experiences", "understanding"]
+            },
+            {
+              "morning": "I am open to learning from everyone I meet.",
+              "midday": "I am curious and always asking questions.",
+              "evening": "I am grateful for the lessons life teaches me.",
+              "tags": ["learning", "curiosity", "lessons"]
+            },
+            {
+              "morning": "I am growing in wisdom and understanding every day.",
+              "midday": "I am learning from my mistakes and successes.",
+              "evening": "I am becoming the wise person I was meant to be.",
+              "tags": ["growth", "mistakes", "destiny"]
+            },
+            {
+              "morning": "I am a lifelong learner with an insatiable curiosity.",
+              "midday": "I am open to being wrong and learning from it.",
+              "evening": "I am grateful for the knowledge I've gained today.",
+              "tags": ["lifelong-learner", "humility", "knowledge"]
+            }
+          ]
+        },
+        {
+          "id": "leadership",
+          "name": "Leadership & Influence",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am a natural leader who inspires others to greatness.",
+              "midday": "I lead by example and with integrity.",
+              "evening": "I am making a positive impact on everyone I meet.",
+              "tags": ["leadership", "example", "impact"]
+            },
+            {
+              "morning": "I am confident in my ability to guide and inspire.",
+              "midday": "I am building a team of champions around me.",
+              "evening": "I am grateful for the opportunity to lead and serve.",
+              "tags": ["confidence", "team-building", "service"]
+            },
+            {
+              "morning": "I am a visionary who sees possibilities others miss.",
+              "midday": "I am communicating my vision with clarity and passion.",
+              "evening": "I am creating a legacy of leadership and positive change.",
+              "tags": ["vision", "communication", "legacy"]
+            },
+            {
+              "morning": "I am empowering others to reach their full potential.",
+              "midday": "I am making decisions that benefit the greater good.",
+              "evening": "I am proud of the leader I am becoming.",
+              "tags": ["empowerment", "decisions", "pride"]
+            },
+            {
+              "morning": "I am a catalyst for positive change in my community.",
+              "midday": "I am inspiring others to believe in themselves.",
+              "evening": "I am grateful for my leadership gifts and abilities.",
+              "tags": ["catalyst", "inspiration", "gifts"]
+            }
+          ]
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure & Exploration",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am embracing new adventures and experiences.",
+              "midday": "I am stepping outside my comfort zone with courage.",
+              "evening": "I am grateful for the excitement and growth of today.",
+              "tags": ["adventure", "courage", "growth"]
+            },
+            {
+              "morning": "I am exploring the world with wonder and curiosity.",
+              "midday": "I am discovering new places, people, and possibilities.",
+              "evening": "I am creating memories that will last a lifetime.",
+              "tags": ["exploration", "discovery", "memories"]
+            },
+            {
+              "morning": "I am living life as an exciting adventure.",
+              "midday": "I am open to unexpected opportunities and experiences.",
+              "evening": "I am grateful for the journey of discovery I'm on.",
+              "tags": ["adventure", "opportunities", "journey"]
+            },
+            {
+              "morning": "I am a seeker of new experiences and knowledge.",
+              "midday": "I am embracing the unknown with excitement.",
+              "evening": "I am growing through every new adventure I take.",
+              "tags": ["seeking", "unknown", "growth"]
+            },
+            {
+              "morning": "I am creating my own path and writing my own story.",
+              "midday": "I am not afraid to take the road less traveled.",
+              "evening": "I am proud of my adventurous spirit and courage.",
+              "tags": ["path", "courage", "spirit"]
+            }
+          ]
+        },
+        {
+          "id": "peace",
+          "name": "Inner Peace & Calm",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am at peace with myself and the world around me.",
+              "midday": "I am finding calm in the midst of chaos.",
+              "evening": "I am grateful for the peace that fills my heart.",
+              "tags": ["peace", "calm", "gratitude"]
+            },
+            {
+              "morning": "I am centered and grounded in my inner peace.",
+              "midday": "I am choosing peace over worry and anxiety.",
+              "evening": "I am resting in the knowledge that all is well.",
+              "tags": ["centered", "choice", "rest"]
+            },
+            {
+              "morning": "I am cultivating inner peace through mindfulness.",
+              "midday": "I am finding stillness in the busyness of life.",
+              "evening": "I am grateful for the tranquility of this moment.",
+              "tags": ["mindfulness", "stillness", "tranquility"]
+            },
+            {
+              "morning": "I am peaceful and content with what I have.",
+              "midday": "I am not disturbed by external circumstances.",
+              "evening": "I am at peace with the flow of life.",
+              "tags": ["contentment", "stability", "flow"]
+            },
+            {
+              "morning": "I am radiating peace and calm to those around me.",
+              "midday": "I am a source of serenity in a chaotic world.",
+              "evening": "I am grateful for my ability to find peace anywhere.",
+              "tags": ["radiating", "serenity", "ability"]
+            }
+          ]
+        },
+        {
+          "id": "joy",
+          "name": "Joy & Happiness",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am choosing joy and happiness today.",
+              "midday": "I am finding reasons to smile and laugh.",
+              "evening": "I am grateful for the joy that fills my heart.",
+              "tags": ["choice", "smile", "gratitude"]
+            },
+            {
+              "morning": "I am a magnet for joy and positive experiences.",
+              "midday": "I am spreading happiness to everyone I meet.",
+              "evening": "I am grateful for the joy I've shared today.",
+              "tags": ["magnet", "spreading", "sharing"]
+            },
+            {
+              "morning": "I am finding joy in the simple pleasures of life.",
+              "midday": "I am celebrating the small moments of happiness.",
+              "evening": "I am grateful for the joy that surrounds me.",
+              "tags": ["pleasures", "celebration", "surrounded"]
+            },
+            {
+              "morning": "I am creating joy through my thoughts and actions.",
+              "midday": "I am choosing to see the good in every situation.",
+              "evening": "I am grateful for my ability to create happiness.",
+              "tags": ["creation", "perspective", "ability"]
+            },
+            {
+              "morning": "I am living a life filled with joy and laughter.",
+              "midday": "I am grateful for the gift of happiness.",
+              "evening": "I am thankful for another day of joy and love.",
+              "tags": ["life", "gift", "thankful"]
+            }
+          ]
+        },
+        {
+          "id": "strength",
+          "name": "Physical & Mental Strength",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am building strength in my body and mind.",
+              "midday": "I am pushing my limits and growing stronger.",
+              "evening": "I am grateful for my increasing strength and power.",
+              "tags": ["building", "limits", "power"]
+            },
+            {
+              "morning": "I am stronger than I was yesterday.",
+              "midday": "I am capable of more than I ever imagined.",
+              "evening": "I am proud of my strength and determination.",
+              "tags": ["growth", "capability", "pride"]
+            },
+            {
+              "morning": "I am a force to be reckoned with.",
+              "midday": "I am building unshakeable mental and physical strength.",
+              "evening": "I am grateful for my warrior spirit.",
+              "tags": ["force", "unshakeable", "warrior"]
+            },
+            {
+              "morning": "I am becoming the strongest version of myself.",
+              "midday": "I am not afraid of hard work and challenges.",
+              "evening": "I am grateful for my ability to overcome obstacles.",
+              "tags": ["version", "hard-work", "overcome"]
+            },
+            {
+              "morning": "I am building a body and mind that can handle anything.",
+              "midday": "I am grateful for my strength and resilience.",
+              "evening": "I am proud of how far I've come.",
+              "tags": ["building", "gratitude", "progress"]
+            }
+          ]
+        },
+        {
+          "id": "love",
+          "name": "Love & Compassion",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am filled with love and compassion for all beings.",
+              "midday": "I am treating everyone with kindness and respect.",
+              "evening": "I am grateful for the love that flows through me.",
+              "tags": ["compassion", "kindness", "flow"]
+            },
+            {
+              "morning": "I am a source of love and light in the world.",
+              "midday": "I am spreading love wherever I go.",
+              "evening": "I am grateful for my ability to love unconditionally.",
+              "tags": ["source", "spreading", "unconditional"]
+            },
+            {
+              "morning": "I am worthy of giving and receiving love.",
+              "midday": "I am open to love in all its forms.",
+              "evening": "I am grateful for the love in my life.",
+              "tags": ["worthiness", "openness", "gratitude"]
+            },
+            {
+              "morning": "I am loving myself more each day.",
+              "midday": "I am extending love and forgiveness to others.",
+              "evening": "I am grateful for my capacity to love deeply.",
+              "tags": ["self-love", "forgiveness", "capacity"]
+            },
+            {
+              "morning": "I am surrounded by love and positive energy.",
+              "midday": "I am grateful for the love I share with others.",
+              "evening": "I am thankful for another day of love and connection.",
+              "tags": ["surrounded", "sharing", "connection"]
+            }
+          ]
+        },
+        {
+          "id": "freedom",
+          "name": "Freedom & Independence",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am free to be who I truly am.",
+              "midday": "I am living life on my own terms.",
+              "evening": "I am grateful for my freedom and independence.",
+              "tags": ["authenticity", "terms", "independence"]
+            },
+            {
+              "morning": "I am breaking free from limiting beliefs and fears.",
+              "midday": "I am creating the life I truly want to live.",
+              "evening": "I am grateful for my courage to be free.",
+              "tags": ["breaking-free", "creation", "courage"]
+            },
+            {
+              "morning": "I am independent and self-reliant.",
+              "midday": "I am making my own decisions and choices.",
+              "evening": "I am proud of my independence and strength.",
+              "tags": ["self-reliant", "decisions", "pride"]
+            },
+            {
+              "morning": "I am free from the opinions and judgments of others.",
+              "midday": "I am living authentically and unapologetically.",
+              "evening": "I am grateful for my freedom to choose.",
+              "tags": ["opinions", "authenticity", "choice"]
+            },
+            {
+              "morning": "I am creating financial and emotional freedom.",
+              "midday": "I am grateful for my ability to live freely.",
+              "evening": "I am thankful for my independence and autonomy.",
+              "tags": ["financial", "ability", "autonomy"]
+            }
+          ]
+        },
+        {
+          "id": "transformation",
+          "name": "Transformation & Growth",
+          "isPremium": false,
+          "days": [
+            {
+              "morning": "I am transforming into the person I was meant to be.",
+              "midday": "I am growing and evolving every single day.",
+              "evening": "I am grateful for my journey of transformation.",
+              "tags": ["transformation", "growth", "journey"]
+            },
+            {
+              "morning": "I am shedding old patterns and embracing new ones.",
+              "midday": "I am becoming more of who I truly am.",
+              "evening": "I am proud of my commitment to personal growth.",
+              "tags": ["patterns", "authenticity", "commitment"]
+            },
+            {
+              "morning": "I am a work in progress and that's perfectly okay.",
+              "midday": "I am learning from every experience and growing wiser.",
+              "evening": "I am grateful for my willingness to change and grow.",
+              "tags": ["progress", "learning", "willingness"]
+            },
+            {
+              "morning": "I am transforming my challenges into opportunities.",
+              "midday": "I am becoming stronger and wiser through every trial.",
+              "evening": "I am grateful for my ability to transform adversity.",
+              "tags": ["challenges", "strength", "adversity"]
+            },
+            {
+              "morning": "I am creating positive change in myself and others.",
+              "midday": "I am grateful for my journey of self-improvement.",
+              "evening": "I am proud of the person I am becoming.",
+              "tags": ["change", "self-improvement", "pride"]
             }
           ]
         }
