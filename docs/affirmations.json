@@ -1,0 +1,31 @@
+{
+  "seasons": [
+    {
+      "id": "default",
+      "packs": [
+        {
+          "id": "starter",
+          "days": [
+            {
+              "id": 1,
+              "slots": {
+                "morning": "I welcome today with energy.",
+                "midday": "I stay grounded and focused.",
+                "evening": "I am grateful for the progress I made."
+              }
+            },
+            {
+              "id": 2,
+              "slots": {
+                "morning": "I am capable of handling today’s challenges.",
+                "midday": "I take time to pause and breathe.",
+                "evening": "I end the day with peace."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
